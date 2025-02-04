@@ -3,11 +3,11 @@
 Welcome to the **LifeLinkDB Dashboard**! This is the admin panel for managing user biodata and payments efficiently.
 
 ## Admin Information
-- **Admin Email:** admin@example.com
-- **Password:** admin123
+- **Admin Email:** admin@lifelink.com
+- **Password:** *********
 
 ## Live Site
-- [https://my-final-project-36ab9.web.app/](#) 
+- [ LifeLinkDB](https://my-final-project-36ab9.web.app/) 
 
 ## Features
 
